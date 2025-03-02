@@ -14,7 +14,7 @@ env_vars = {
   # {chap_num}: Chapter Number
   # {chap_name} : Manga Name
   # Ex : Chapter {chap_num} {chap_name} @Manhwa_Arena
-  "FNAME": "[MS] [{chap_num}] {chap_name} @Manga_Sect",
+  "FNAME": "[MS] [{chap_num}] {chap_name} @Manga_Sect"
   
 }
 
